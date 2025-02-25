@@ -130,8 +130,8 @@ We welcome contributions! Please open a PR or submit an issue.
 
 ## 🛠 **Developers**  
 👤 Aldrin lijo J E – [GitHub](https://github.com/aldrinlijo04) | [LinkedIn](https://linkedin.com/in/aldrinlijo04)  
- Sanjay Ragavendar M K 
- Dinesh Kumar
- Varshini S A
+👤 Sanjay Ragavendar 
+👤 Dinesh Kumar
+👤 Varshini S A
 ---
 
